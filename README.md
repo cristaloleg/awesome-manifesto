@@ -38,11 +38,16 @@
   - end-user changes must be explicit
 
 ### Code health
-- fork instead of hack
-- touch legacy, often
-- remove deprecated stuff
-- use TODO, BUG, XXX in code
 - use linters and code analysis all the time
+  - best handling for the best code
+- fork instead of hack
+  - logic isolation at the beginning
+- touch legacy, often
+  - it becomes non-legacy faster
+- remove deprecated stuff
+  - having a bloated dead code is an error
+- use TODO, BUG, XXX in code
+  - jumping to the issue tracker can be minimized
 
 ### Dependencies
 - bump libs on a permanent basis
