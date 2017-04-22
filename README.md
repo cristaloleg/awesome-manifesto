@@ -51,8 +51,11 @@
 
 ### Dependencies
 - bump libs on a permanent basis
+  - new version is expected to be better
 - have a local cache-server with deps
+  - adds stability to the infrastructure
 - all modules must have same structure
+  - similar environment everywhere is a good idea
 
 ### Tests
 - use one test framework
