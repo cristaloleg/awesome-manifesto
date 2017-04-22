@@ -1,14 +1,23 @@
 # Manifesto [![ghit.me](https://ghit.me/badge.svg?repo=cristaloleg/manifesto)](https://ghit.me/repo/cristaloleg/manifesto)
 ### Git
 - 1 commit per change, do squash
+  - you can easily work with changes 
 - touch few things at once
+  - it's kinda obvious
 - rebase instead of merge
-- pull request should have 2+ approvals
+  - no merge commits, cleaner git history
+- pull request must have 2+ approvals
+  - changes must be visible to the team members
 - master is read-only
+  - it's a rule. always. no exclusions.
 - delete branches after a merge
+  - better navigation and git performance
 - release tags
+  - tracking releases/deployments are simpler
 - git submodules for components
-- no global stylefixes
+  - better architecture consistency
+- no global history changes
+  - prevents git history misuse
 
 ### CI
 - autorevert on failure
