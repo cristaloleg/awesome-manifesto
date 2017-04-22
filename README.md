@@ -21,13 +21,21 @@
 
 ### CI
 - autorevert on failure
+  - no broken code in the master
 - run at any commit
+  - obvious ability for CI
 - CI plan in git
+  - know all plan changes and have consistency
 - warn about formatting verification
+  - no developer disruption in the future
 - warn about coverage illness
+  - coverage is quite important thing
 - track test(flakiness) failures
+  - statistics, hints, conclusions
 - store build logs for 3+ months
+  - having analytics and working links to them
 - docs are generated from the code
+  - end-user changes must be explicit
 
 ### Code health
 - fork instead of hack
