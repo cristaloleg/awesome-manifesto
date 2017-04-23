@@ -42,7 +42,7 @@
   - the best handling for the best code
 - [ ] fork instead of hack
   - logic isolation at the beginning
-- [ ] [ ] touch legacy, often
+- [ ] touch legacy, often
   - it becomes non-legacy faster
 - [ ] remove deprecated stuff
   - having a bloated dead code is an error
@@ -127,7 +127,7 @@
 - [ ] Wifi must work all the time
   - obvious
 - [ ] LAN must be even more stable
-  - uber-obvious
+  - uber-obvious
 
 ### Life
 - [ ] work from home is a must have
