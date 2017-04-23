@@ -20,10 +20,10 @@
   - prevents git history misuse
 
 ### CI
-- autorevert on failure
+- auto revert on failure
   - no broken code in the master
 - run at any commit
-  - obvious ability for CI
+  - the obvious ability for CI
 - CI plan in git
   - know all plan changes and have consistency
 - warn about formatting verification
@@ -39,7 +39,7 @@
 
 ### Code health
 - use linters and code analysis all the time
-  - best handling for the best code
+  - the best handling for the best code
 - fork instead of hack
   - logic isolation at the beginning
 - touch legacy, often
@@ -47,62 +47,92 @@
 - remove deprecated stuff
   - having a bloated dead code is an error
 - use TODO, BUG, XXX in code
-  - jumping to the issue tracker can be minimized
+  - jumping to the issue tracker can be minimised
 
 ### Dependencies
 - bump libs on a permanent basis
-  - new version is expected to be better
+  - the new version is expected to be better
 - have a local cache-server with deps
   - adds stability to the infrastructure
-- all modules must have same structure
+- all modules must have the same structure
   - similar environment everywhere is a good idea
 
 ### Tests
 - use one test framework
-- show results, not just stacktraces
+  - similar environment is better
+- show results, not just stack traces
+  - some failures are obvious with visible result
 
 ### Tools
 - use Makefile, Bash
+  - cross-platform, simple, well known
 
 ### Recovery
 - use partial backups
+  - restoring from the 10+Gb file is kinda strange
 - test your backups
+  - they might be broken
 
 ### Team
 - pairing, 50% and more
-- high-level stand ups, time bounded
+  - you're doing better, you're not bored
+- high-level stand-ups, time bounded
+  - less info about irrelevant stuff
 - 2-3 week sprints
+  - not so long, not so short
 - per sprint roles
+  - it's quite comfortable time bounds
 - only urgent topics are face-to-face
+  - fewer distractions for unimportant things
 
 ### Meetings
 - I can skip if I'm out of scope
-- if you're organizing a meeting - prepare an agenda
+  - do not waste team and own time
+- if you're organising a meeting - prepare an agenda
+  - to have a way how to drive a meeting
 
 ### Communications
-- outcomes of important discussions should be on wiki
+- outcomes of important discussions should be on a wiki
+  - better visibility for outcomes
 - only important notifications
+  - @all should be rare for irrelevant updates
 - easy access to any team room
+  - that's obvious, hey
 - do not delete personal chats with inactive users
+  - some chats contains interesting ideas
 
 ### Permissions
 - Git, CI, SSH read-access to everything
+  - reading server logs cannot cause troubles
 - one login to anything
+  - better organisation of credentials
 - each office should have global admin
+  - different timezones are bottleneck
 
 ### Space
 - engineers apart from non-engineers
+  - fire & ice
 - quite open-space
+  - someone might be sensitive to a noise...
 - quite zones
-- kitchen isn't for chill-out
+  - ...really sensitive
+- the kitchen isn't for chill-out
+  - the play room is a thing
 
 ### Network
 - VPN access from home
+  - work from home is a cool thing
 - Wifi must work all the time
+  - obvious
 - LAN must be even more stable
+  - uber-obvious
 
 ### Life
 - work from home is a must have
+  - family, health, even weather might be a reason 
 - educational budget to anything related to dev stuff
-- allow to commit to the open-source
+  - I would like to learn new technologies, why not?
+- allow committing to the open-source
+  - company_karma++
 - skipping team lunch must be acceptable
+  - well...obvious
