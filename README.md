@@ -65,7 +65,7 @@
 
 ### Tools
 - use Makefile, Bash
-  - cross-platform, simple, well known
+  - simple, easy, well known
 
 ### Recovery
 - use partial backups
@@ -79,7 +79,7 @@
 - high-level stand-ups, time bounded
   - less info about irrelevant stuff
 - 2-3 week sprints
-  - not so long, not so short
+  - have an achievable sprint goal
 - per sprint roles
   - it's quite comfortable time bounds
 - only urgent topics are face-to-face
@@ -92,6 +92,8 @@
   - to have a way how to drive a meeting
 
 ### Communications
+- use the best apps
+  - fast, flexible, pleasurable
 - outcomes of important discussions should be on a wiki
   - better visibility for outcomes
 - only important notifications
@@ -104,7 +106,7 @@
 ### Permissions
 - Git, CI, SSH read-access to everything
   - reading server logs cannot cause troubles
-- one login to anything
+- SSO to anything
   - better organisation of credentials
 - each office should have global admin
   - different timezones are bottleneck
