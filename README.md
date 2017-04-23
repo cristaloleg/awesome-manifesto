@@ -4,7 +4,7 @@ What I would like to see in a company of my dream.
 
 ### Git
 - [ ] 1 commit per change, do squash
-  - you can easily work with changes 
+  - you can easily work with changes
 - [ ] touch few things at once
   - it's kinda obvious
 - [ ] rebase instead of merge
@@ -12,7 +12,7 @@ What I would like to see in a company of my dream.
 - [ ] pull request must have 2+ approvals
   - changes must be visible to the team members
 - [ ] master is read-only
-  - it's a rule. always. no exclusions.
+  - it's a rule. always. no exceptions.
 - [ ] delete branches after a merge
   - better navigation and git performance
 - [ ] release tags
@@ -117,9 +117,9 @@ What I would like to see in a company of my dream.
 ### Space
 - [ ] engineers apart from non-engineers
   - fire & ice
-- [ ] quite open-space
+- [ ] quiet open-space
   - someone might be sensitive to a noise...
-- [ ] quite zones
+- [ ] quiet zones
   - ...really sensitive
 - [ ] the kitchen isn't for chill-out
   - the play room is a thing
@@ -134,7 +134,7 @@ What I would like to see in a company of my dream.
 
 ### Life
 - [ ] work from home is a must have
-  - family, health, even weather might be a reason 
+  - family, health, even weather might be a reason
 - [ ] educational budget to anything related to dev stuff
   - I would like to learn new technologies, why not?
 - [ ] allow committing to the open-source
