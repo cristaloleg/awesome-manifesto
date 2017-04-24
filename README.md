@@ -99,7 +99,7 @@ What I would like to see in a company of my dream.
 - [ ] friendly atmosphere
   - no insulting jokes, no trolling, respectful environment
 - [ ] 'coding rockstar'
-  - it is a demotavation, not an inspiration
+  - it is a demotivation, not an inspiration
 
 ### Meetings
 - [ ] I can skip if I'm out of scope
