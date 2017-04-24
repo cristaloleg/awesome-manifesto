@@ -19,12 +19,13 @@ What I would like to see in a company of my dream.
   - tracking releases/deployments are simpler
 - [ ] git submodules for components
   - better architecture consistency
+  - UPD: highly debatable point
 - [ ] no global history changes
   - prevents git history misuse
 
 ### CI
 - [ ] auto revert on failure
-  - no broken code in the master
+  - roll back a changes, no broken code in the master
 - [ ] run at any commit
   - the obvious ability for CI
 - [ ] CI plan in git
@@ -39,6 +40,8 @@ What I would like to see in a company of my dream.
   - having analytics and working links to them
 - [ ] docs are generated from the code
   - end-user changes must be explicit
+- [ ] locally reproducible builds
+  - re-run part of a job on my local machine
 
 ### Code health
 - [ ] use linters and code analysis all the time
@@ -65,6 +68,12 @@ What I would like to see in a company of my dream.
   - similar environment is better
 - [ ] show results, not just stack traces
   - some failures are obvious with visible result
+- [ ] isolated tests
+  - use beforeTest and afterTest aggressively
+- [ ] TDD
+  - it really works
+- [ ] measure a code coverage
+  - quick and easy way to eliminate bugs  
 
 ### Tools
 - [ ] use Makefile, Bash
@@ -87,6 +96,10 @@ What I would like to see in a company of my dream.
   - it's quite comfortable time bounds
 - [ ] only urgent topics are face-to-face
   - fewer distractions for unimportant things
+- [ ] friendly atmosphere
+  - no insulting jokes, no trolling, respectful environment
+- [ ] 'coding rockstar'
+  - it is a demotavation, not an inspiration
 
 ### Meetings
 - [ ] I can skip if I'm out of scope
@@ -139,5 +152,5 @@ What I would like to see in a company of my dream.
   - I would like to learn new technologies, why not?
 - [ ] allow committing to the open-source
   - company_karma++
-- [ ] skipping team lunch must be acceptable
+- [ ] skipping team events must be acceptable
   - well...obvious
