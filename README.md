@@ -22,6 +22,8 @@ What I would like to see in a company of my dream.
   - UPD: highly debatable point
 - [ ] no global history changes
   - prevents git history misuse
+- [ ] commit message format
+  - clear, well explanatory, structured
 
 ### CI
 - [ ] auto revert on failure
@@ -34,7 +36,7 @@ What I would like to see in a company of my dream.
   - no developer disruption in the future
 - [ ] warn about coverage illness
   - coverage is quite important thing
-- [ ] track test(flakiness) failures
+- [ ] track test failures and flakiness
   - statistics, hints, conclusions
 - [ ] store build logs for 3+ months
   - having analytics and working links to them
@@ -51,9 +53,11 @@ What I would like to see in a company of my dream.
 - [ ] touch legacy, often
   - it becomes non-legacy faster
 - [ ] remove deprecated stuff
-  - having a bloated dead code is an error
+  - having a bloated dead code is a mistake
 - [ ] use TODO, BUG, XXX in code
   - jumping to the issue tracker can be minimised
+- [ ] no experiments in the master
+  - use your 20% time as a playground, please
 
 ### Dependencies
 - [ ] bump libs on a permanent basis
@@ -154,3 +158,7 @@ What I would like to see in a company of my dream.
   - company_karma++
 - [ ] skipping team events must be acceptable
   - well...obvious
+- [ ] 20% time is a vacation like time
+  - creating anything that might help someone is awesome
+- [ ] brown bags sessions must be rewarded
+  - sharing knowledge is a best way to inspire
