@@ -162,3 +162,5 @@ What I would like to see in a company of my dream.
   - creating anything that might help someone is awesome
 - [ ] brown bags sessions must be rewarded
   - sharing knowledge is a best way to inspire
+- [ ] monthly geek swag <3
+  - t-shirt, hoodies and all other stuff
