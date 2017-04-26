@@ -140,6 +140,8 @@ What I would like to see in a company of my dream.
   - ...really sensitive
 - [ ] the kitchen isn't for chill-out
   - the play room is a thing
+- [ ] nothing smelly near working area
+  - even coffee/cinamon/mowed grass might irritate
 
 ### Network
 - [ ] VPN access from home
@@ -164,3 +166,5 @@ What I would like to see in a company of my dream.
   - sharing knowledge is a best way to inspire
 - [ ] monthly geek swag <3
   - t-shirt, hoodies and all other stuff
+- [ ] health food on the kitchen
+  - candies are cool, but I would like to live longer
