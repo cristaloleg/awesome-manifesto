@@ -165,6 +165,6 @@ What I would like to see in a company of my dream.
 - [ ] brown bags sessions must be rewarded
   - sharing knowledge is a best way to inspire
 - [ ] monthly geek swag <3
-  - t-shirt, hoodies and all other stuff
-- [ ] health food on the kitchen
+  - t-shirts, hoodies and all other stuff
+- [ ] health food in the kitchen
   - candies are cool, but I would like to live longer
