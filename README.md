@@ -141,7 +141,7 @@ What I would like to see in a company of my dream.
 - [ ] the kitchen isn't for chill-out
   - the play room is a thing
 - [ ] nothing smelly near working area
-  - even coffee/cinamon/mowed grass might irritate
+  - even coffee/cinnamon/mowed grass might irritate
 
 ### Network
 - [ ] VPN access from home
