@@ -26,8 +26,8 @@ What I would like to see in a company of my dream.
   - clear, well explanatory, structured
 
 ### CI
-- [ ] auto revert on failure
-  - roll back a changes, no broken code in the master
+- [ ] auto-revert on failure
+  - roll back changes, no broken code in the master
 - [ ] run at any commit
   - the obvious ability for CI
 - [ ] CI plan in git
@@ -69,7 +69,7 @@ What I would like to see in a company of my dream.
 
 ### Tests
 - [ ] use one test framework
-  - similar environment is better
+  - a similar environment is better
 - [ ] show results, not just stack traces
   - some failures are obvious with visible result
 - [ ] isolated tests
@@ -129,7 +129,7 @@ What I would like to see in a company of my dream.
 - [ ] SSO to anything
   - better organisation of credentials
 - [ ] each office should have global admin
-  - different timezones are bottleneck
+  - different timezones are a bottleneck
 
 ### Space
 - [ ] engineers apart from non-engineers
@@ -163,7 +163,7 @@ What I would like to see in a company of my dream.
 - [ ] 20% time is a vacation like time
   - creating anything that might help someone is awesome
 - [ ] brown bags sessions must be rewarded
-  - sharing knowledge is a best way to inspire
+  - sharing knowledge is the best way to inspire
 - [ ] monthly geek swag <3
   - t-shirts, hoodies and all other stuff
 - [ ] health food in the kitchen
