@@ -110,6 +110,8 @@ What I would like to see in a company of my dream.
   - do not waste team and own time
 - [ ] if you're organising a meeting - prepare an agenda
   - to have a way how to drive a meeting
+- [ ] action points after the meeting
+  - who does what and when
 
 ### Communications
 - [ ] use the best apps
