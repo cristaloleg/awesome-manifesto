@@ -59,6 +59,10 @@ What I would like to see in a company of my dream.
 - [ ] no experiments in the master
   - use your 20% time as a playground, please
 
+### Database
+- [ ] keep models normalized
+  - less storage, better performance
+
 ### Dependencies
 - [ ] bump libs on a permanent basis
   - the new version is expected to be better
