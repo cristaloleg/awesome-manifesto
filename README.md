@@ -108,6 +108,8 @@ What I would like to see in a company of my dream.
   - no insulting jokes, no trolling, respectful environment
 - [ ] 'coding rockstar'
   - it is a demotivation, not an inspiration
+- [ ] if you're on the vacations - specify date range
+  - it'll be easier to find someone else or postpone the question
 
 ### Meetings
 - [ ] I can skip if I'm out of scope
