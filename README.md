@@ -160,6 +160,8 @@ What I would like to see in a company of my dream.
   - uber-obvious
 
 ### Life
+- [ ] how often should my salary be reviewed?
+  - worth asking
 - [ ] work from home is a must have
   - family, health, even weather might be a reason
 - [ ] educational budget to anything related to dev stuff
