@@ -62,6 +62,8 @@ What I would like to see in a company of my dream.
 ### Database
 - [ ] keep models normalized
   - less storage, better performance
+- [ ] think about your data
+  - don't use SQL/NoSQL without a reason
 
 ### Dependencies
 - [ ] bump libs on a permanent basis
@@ -130,6 +132,8 @@ What I would like to see in a company of my dream.
   - that's obvious, hey
 - [ ] do not delete personal chats with inactive users
   - some chats contains interesting ideas
+- [ ] closed ticket must contain a link to the changes
+  - every change must be easy accessible and visible for others
 
 ### Permissions
 - [ ] Git, CI, SSH read-access to everything
