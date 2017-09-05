@@ -102,6 +102,7 @@ What I would like to see in a company of my dream.
   - less info about irrelevant stuff
 - [ ] 2-3 week sprints
   - have an achievable sprint goal
+  - UPD: deppends on team/project, might be unuseful
 - [ ] per sprint roles
   - it's quite comfortable time bounds
 - [ ] only urgent topics are face-to-face
