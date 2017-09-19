@@ -121,6 +121,8 @@ What I would like to see in a company of my dream.
   - to have a way how to drive a meeting
 - [ ] action points after the meeting
   - who does what and when
+- [ ] avoid bus factor as much as possible
+  - moving/cancelling unimportant meeting because of 1 person is a bad sign
 
 ### Communications
 - [ ] use the best apps
