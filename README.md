@@ -113,6 +113,8 @@ What I would like to see in a company of my dream.
   - it is a demotivation, not an inspiration
 - [ ] if you're on the vacations - specify date range
   - it'll be easier to find someone else or postpone the question
+- [ ] FAQ for newcomers
+  - 30-day plan with all stuff that they should accomplish
 
 ### Meetings
 - [ ] I can skip if I'm out of scope
