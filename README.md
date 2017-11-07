@@ -54,6 +54,8 @@ What I would like to see in a company of my dream.
   - it becomes non-legacy faster
 - [ ] remove deprecated stuff
   - having a bloated dead code is a mistake
+- [ ] also remove old code
+  - it adds even less reasons to the new code
 - [ ] use TODO, BUG, XXX in code
   - jumping to the issue tracker can be minimised
 - [ ] no experiments in the master
