@@ -117,6 +117,8 @@ What I would like to see in a company of my dream.
   - it'll be easier to find someone else or postpone the question
 - [ ] FAQ for newcomers
   - 30-day plan with all stuff that they should accomplish
+- [ ] all features must be protected by feature flag
+  - in case of accident it will(might) be enough to turn it off
 
 ### Meetings
 - [ ] I can skip if I'm out of scope
