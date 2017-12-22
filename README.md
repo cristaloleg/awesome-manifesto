@@ -66,6 +66,8 @@ What I would like to see in a company of my dream.
   - less storage, better performance
 - [ ] think about your data
   - don't use SQL/NoSQL without a reason
+- [ ] use timestamp to store a date/time
+  - this will save you from formatting hell
 
 ### Dependencies
 - [ ] bump libs on a permanent basis
