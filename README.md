@@ -68,6 +68,8 @@ What I would like to see in a company of my dream.
   - don't use SQL/NoSQL without a reason
 - [ ] use timestamp to store a date/time
   - this will save you from formatting hell
+- [ ] log your queries
+  - see what is happening on db side and who is too greedy
 
 ### Dependencies
 - [ ] bump libs on a permanent basis
