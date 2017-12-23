@@ -60,6 +60,8 @@ What I would like to see in a company of my dream.
   - jumping to the issue tracker can be minimised
 - [ ] no experiments in the master
   - use your 20% time as a playground, please
+- [ ] allow to change log-level on the fly
+  - this will simplify production's debug routine
 
 ### Database
 - [ ] keep models normalized
