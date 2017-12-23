@@ -62,6 +62,8 @@ What I would like to see in a company of my dream.
   - use your 20% time as a playground, please
 - [ ] allow to change log-level on the fly
   - this will simplify production's debug routine
+- [ ] store your config in /etc/myapp and logs in /var/log/myapp
+  - this will make everything more structured and well defined
 
 ### Database
 - [ ] keep models normalized
