@@ -76,6 +76,8 @@ What I would like to see in a company of my dream.
   - this will save you from formatting hell
 - [ ] log slow queries
   - see what is happening in database and who is too greedy
+- [ ] don't put business login into db or at least make it loosely coupled
+  - this will prevent easy migration to another db
 
 ### Dependencies
 - [ ] bump libs on a permanent basis
