@@ -66,6 +66,8 @@ What I would like to see in a company of my dream.
   - this might cause troubles to your app, be careful
 - [ ] store your config in /etc/myapp and logs in /var/log/myapp
   - this will make everything more structured and well defined
+- [ ] all modules must have the same structure
+  - similar environment everywhere is a good idea
 
 ### Database
 - [ ] keep models normalized
@@ -84,8 +86,6 @@ What I would like to see in a company of my dream.
   - the new version is expected to be better
 - [ ] have a local cache-server with deps
   - adds stability to the infrastructure
-- [ ] all modules must have the same structure
-  - similar environment everywhere is a good idea
 - [ ] pin your dependencies to a specific version
   - accidental commit to dependency's master will break nothing
 
