@@ -86,6 +86,8 @@ What I would like to see in a company of my dream.
   - adds stability to the infrastructure
 - [ ] all modules must have the same structure
   - similar environment everywhere is a good idea
+- [ ] pin your dependencies to a specific version
+  - accidental commit to dependency's master will break nothing
 
 ### Tests
 - [ ] use one test framework
