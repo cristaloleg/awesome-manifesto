@@ -44,6 +44,8 @@ What I would like to see in a company of my dream.
   - end-user changes must be explicit
 - [ ] locally reproducible builds
   - re-run part of a job on my local machine
+- [ ] use Makefile, Bash
+  - simple, easy, well known
 
 ### Code health
 - [ ] use linters and code analysis all the time
@@ -100,14 +102,6 @@ What I would like to see in a company of my dream.
   - it really works
 - [ ] measure a code coverage
   - quick and easy way to eliminate bugs  
-
-### Tools
-- [ ] use Makefile, Bash
-  - simple, easy, well known
-
-### Recovery
-- [ ] use partial backups
-  - restoring from the 10+Gb file is kinda strange
 - [ ] test your backups
   - they might be broken
 
