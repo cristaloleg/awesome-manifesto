@@ -90,6 +90,8 @@ What I would like to see in a company of my dream.
   - adds stability to the infrastructure
 - [ ] pin your dependencies to a specific version
   - accidental commit to dependency's master will break nothing
+- [ ] prefer mature technology, rather then hyped one
+  - mature will die slower, then hyped
 
 ### Tests
 - [ ] use one test framework
