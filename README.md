@@ -48,6 +48,8 @@ What I would like to see in a company of my dream.
   - simple, easy, well known
 
 ### Code health
+- [ ] document your code
+  - giving a small context for API will save a lot of time
 - [ ] use linters and code analysis all the time
   - the best handling for the best code
 - [ ] fork instead of hack
