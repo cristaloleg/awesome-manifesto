@@ -163,6 +163,8 @@ What I would like to see in a company of my dream.
   - better organisation of credentials
 - [ ] each office should have global admin
   - different timezones are a bottleneck
+- [ ] ability to start/stop a job on CI
+  - waiting for an approval to make this action is a horrible bottleneck
 
 ### Space
 - [ ] engineers apart from non-engineers
