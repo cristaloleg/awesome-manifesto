@@ -5,6 +5,8 @@ What I would like to see in a company of my dream.
 ### Git
 - [ ] 1 commit per change, do squash
   - you can easily work with changes
+- [ ] there might be few (alredy squashed) commits in a pull request
+  - don't make huge changes they will bury truth
 - [ ] touch few things at once
   - it's kinda obvious
 - [ ] rebase instead of merge
