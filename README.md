@@ -14,7 +14,7 @@ What I would like to see in a company of my dream.
 - [ ] pull request must have 2+ approvals
   - changes must be visible to the team members
 - [ ] master is read-only
-  - it's a rule. always. no exceptions.
+  - it's a rule. Always. No exceptions.
 - [ ] delete branches after a merge
   - better navigation and git performance
 - [ ] release tags
