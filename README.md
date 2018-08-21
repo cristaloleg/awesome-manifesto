@@ -112,6 +112,8 @@ What I would like to see in a company of my dream.
   - quick and easy way to eliminate bugs  
 - [ ] test your backups
   - they might be broken
+- [ ] do not hard code ports in tests
+  - unless you're interested in random flaky tests
 
 ### Team
 - [ ] pairing, 50% and more
