@@ -11,7 +11,7 @@ What I would like to see in a company of my dream.
   - it's kinda obvious
 - [ ] rebase instead of merge
   - no merge commits, cleaner git history
-- [ ] pull request must have 2+ approvals
+- [ ] pull request must have at least 1-2 approvals
   - changes must be visible to the team members
 - [ ] master is read-only
   - it's a rule. Always. No exceptions.
