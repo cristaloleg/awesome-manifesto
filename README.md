@@ -54,8 +54,6 @@ What I would like to see in a company of my dream.
   - giving a small context for API will save a lot of time
 - [ ] use linters and code analysis all the time
   - the best handling for the best code
-- [ ] fork instead of hack
-  - logic isolation at the beginning
 - [ ] touch legacy, often
   - it becomes non-legacy faster
 - [ ] remove deprecated stuff
@@ -100,6 +98,8 @@ What I would like to see in a company of my dream.
   - accidental commit to dependency's master will break nothing
 - [ ] prefer mature technology, rather then hyped one
   - mature will die slower, then hyped
+- [ ] fork instead of hack
+  - it might be better to fix a lib instead of wrapping for desired behaviour
 
 ### Tests
 - [ ] use one test framework
