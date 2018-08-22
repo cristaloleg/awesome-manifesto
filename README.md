@@ -76,6 +76,8 @@ What I would like to see in a company of my dream.
   - similar environment everywhere is a good idea
 - [ ] if you can’t show a bottleneck, don’t start to optimise it
   - it might be interesting and challenging, but useless
+- [ ] no big binary files inside a repo
+  - slowdowns without a reason
 
 ### Database
 - [ ] keep models normalized
