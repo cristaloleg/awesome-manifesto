@@ -78,10 +78,12 @@ What I would like to see in a company of my dream.
   - slowdowns without a reason
 
 ### Database
-- [ ] keep models normalized
-  - less storage, better performance
 - [ ] think about your data
   - don't use SQL/NoSQL without a reason
+- [ ] keep models normalized
+  - less storage, better performance
+- [ ] but don't normalized without a reason
+  - everything is a trade off
 - [ ] use timestamp to store a date/time
   - this will save you from formatting hell
 - [ ] log slow queries
