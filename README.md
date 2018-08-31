@@ -42,6 +42,8 @@ What I would like to see in a company of my dream.
   - statistics, hints, conclusions
 - [ ] store build logs for 3+ months
   - having analytics and working links to them
+- [ ] do not remove builds/PR/issues
+  - unexpected 404 will help no one, will not save disk space also
 - [ ] docs are generated from the code
   - end-user changes must be explicit
 - [ ] locally reproducible builds
