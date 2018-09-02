@@ -19,6 +19,8 @@ What I would like to see in a company of my dream.
   - better navigation and git performance
 - [ ] release tags
   - tracking releases/deployments are simpler
+- [ ] omit release branches for patches (aka 0.1.x)
+  - use release tags for that
 - [ ] git submodules for components
   - better architecture consistency
   - UPD: highly debatable point
