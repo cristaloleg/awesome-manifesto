@@ -17,13 +17,12 @@ What I would like to see in a company of my dream.
   - it's a rule. Always. No exceptions.
 - [ ] delete branches after a merge
   - better navigation and git performance
+- [ ] use SemVer as a standard for versioning
+  - do not reinvent wheel
 - [ ] release tags
   - tracking releases/deployments are simpler
 - [ ] omit release branches for patches (aka 0.1.x)
   - use release tags for that
-- [ ] git submodules for components
-  - better architecture consistency
-  - UPD: highly debatable point
 - [ ] no global history changes
   - prevents git history misuse
 - [ ] commit message format
