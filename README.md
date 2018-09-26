@@ -51,6 +51,10 @@ What I would like to see in a company of my dream.
   - re-run part of a job on my local machine
 - [ ] use Makefile, Bash
   - simple, easy, well known
+  
+### Deploy
+- [ ] configuration files must be validated before start
+  - unless difficult debug is your goal
 
 ### Code health
 - [ ] document your code
