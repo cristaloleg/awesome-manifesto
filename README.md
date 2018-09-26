@@ -139,7 +139,7 @@ What I would like to see in a company of my dream.
 - [ ] only urgent topics are face-to-face
   - fewer distractions for unimportant things
 - [ ] friendly atmosphere
-  - no insulting jokes, no trolling, respectful environment
+  - no insulting environment, respectful trolling
 - [ ] 'coding rockstar'
   - it is a demotivation, not an inspiration
 - [ ] if you're on the vacations - specify date range
