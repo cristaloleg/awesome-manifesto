@@ -99,6 +99,8 @@ What I would like to see in a company of my dream.
   - this will give you an easy migration to another db
 
 ### Dependencies
+- [ ] wrap any dependency with an interface(or analogue)
+  - this will prevent a vendor lock on it
 - [ ] bump libs on a permanent basis
   - the new version is expected to be better
 - [ ] have a local cache-server with deps
