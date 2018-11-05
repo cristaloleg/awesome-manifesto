@@ -5,8 +5,8 @@ What I would like to see in a company of my dream.
 ### Git
 - [ ] 1 commit per change, do squash
   - you can easily work with changes
-- [ ] there might be few (alredy squashed) commits in a pull request
-  - don't make huge changes they will bury truth
+- [ ] there might be few (already squashed) commits in a pull request
+  - don't make huge changes they will bury the truth
 - [ ] touch few things at once
   - it's kinda obvious
 - [ ] rebase instead of merge
@@ -18,7 +18,7 @@ What I would like to see in a company of my dream.
 - [ ] delete branches after a merge
   - better navigation and git performance
 - [ ] use SemVer as a standard for versioning
-  - do not reinvent wheel
+  - do not reinvent the wheel
 - [ ] release tags
   - tracking releases/deployments are simpler
 - [ ] omit release branches for patches (aka 0.1.x)
@@ -32,7 +32,7 @@ What I would like to see in a company of my dream.
 
 ### CI
 - [ ] auto-revert on failure
-  - roll back changes, no broken code in the master
+  - rollback changes, no broken code in the master
 - [ ] run at any commit
   - the obvious ability for CI
 - [ ] CI plan in git
@@ -40,7 +40,7 @@ What I would like to see in a company of my dream.
 - [ ] warn about formatting verification
   - no developer disruption in the future
 - [ ] warn about coverage illness
-  - coverage is quite important thing
+  - coverage is a quite important thing
 - [ ] track test failures and flakiness
   - statistics, hints, conclusions
 - [ ] store build logs for 3+ months
@@ -55,7 +55,7 @@ What I would like to see in a company of my dream.
   - simple, easy, well known
   
 ### Deploy
-- [ ] configuration files must be validated before start
+- [ ] configuration files must be validated before a start
   - unless difficult debug is your goal
 
 ### Code health
@@ -89,12 +89,12 @@ What I would like to see in a company of my dream.
   - don't use SQL/NoSQL without a reason
 - [ ] keep models normalized
   - less storage, better performance
-- [ ] but don't normalized without a reason
+- [ ] but don't normalize without a reason
   - everything is a trade off
 - [ ] use timestamp to store a date/time
   - this will save you from formatting hell
 - [ ] log slow queries
-  - see what is happening in database and who is too greedy
+  - see what is happening in a database and who is too greedy
 - [ ] don't put business logic into db or at least make it loosely coupled
   - this will give you an easy migration to another db
 
@@ -107,7 +107,7 @@ What I would like to see in a company of my dream.
   - adds stability to the infrastructure
 - [ ] pin your dependencies to a specific version
   - accidental commit to dependency's master will break nothing
-- [ ] prefer mature technology, rather then hyped one
+- [ ] prefer mature technology, rather than a hyped one
   - mature will die slower, then hyped
 - [ ] fork instead of hack
   - it might be better to fix a lib instead of wrapping for desired behaviour
@@ -135,7 +135,7 @@ What I would like to see in a company of my dream.
   - less info about irrelevant stuff
 - [ ] 2-3 week sprints
   - have an achievable sprint goal
-  - UPD: deppends on team/project, might be unuseful
+  - UPD: depends on team/project, might be unuseful
 - [ ] per sprint roles
   - it's quite comfortable time bounds
 - [ ] only urgent topics are face-to-face
@@ -149,7 +149,7 @@ What I would like to see in a company of my dream.
 - [ ] FAQ for newcomers
   - 30-day plan with all stuff that they should accomplish
 - [ ] all features must be protected by feature flag
-  - in case of accident it will(might) be enough to turn it off
+  - in case of an accident it will(might) be enough to turn it off
 
 ### Meetings
 - [ ] I can skip if I'm out of scope
@@ -159,7 +159,7 @@ What I would like to see in a company of my dream.
 - [ ] action points after the meeting
   - who does what and when
 - [ ] avoid bus factor as much as possible
-  - moving/cancelling unimportant meeting because of 1 person is a bad sign
+  - moving/cancelling an unimportant meeting because 1 person is a bad sign
 
 ### Communications
 - [ ] use the best apps
@@ -171,7 +171,7 @@ What I would like to see in a company of my dream.
 - [ ] easy access to any team room
   - that's obvious, hey
 - [ ] do not delete personal chats with inactive users
-  - some chats contains interesting ideas
+  - some chats contain interesting ideas
 - [ ] closed ticket must contain a link to the changes
   - every change must be easy accessible and visible for others
 
@@ -181,7 +181,7 @@ What I would like to see in a company of my dream.
 - [ ] SSO to anything
   - better organisation of credentials
 - [ ] each office should have global admin
-  - different timezones are a bottleneck
+  - different time zones are a bottleneck
 - [ ] ability to start/stop a job on CI
   - waiting for an approval to make this action is a horrible bottleneck
 
@@ -193,7 +193,7 @@ What I would like to see in a company of my dream.
 - [ ] quiet zones
   - ...really sensitive
 - [ ] the kitchen isn't for chill-out
-  - the play room is a thing
+  - the playroom is a thing
 - [ ] nothing smelly near working area
   - even coffee/cinnamon/mowed grass might irritate
 
