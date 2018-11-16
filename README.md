@@ -150,6 +150,8 @@ What I would like to see in a company of my dream.
   - 30-day plan with all stuff that they should accomplish
 - [ ] all features must be protected by feature flag
   - in case of an accident it will(might) be enough to turn it off
+- [ ] document solved and unresolved problems
+  - teammembers will be aware of some problems and it will be resolved much faster
 
 ### Meetings
 - [ ] I can skip if I'm out of scope
