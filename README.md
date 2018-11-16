@@ -57,6 +57,8 @@ What I would like to see in a company of my dream.
 ### Deploy
 - [ ] configuration files must be validated before a start
   - unless difficult debug is your goal
+- [ ] all features must be protected by feature flag
+  - in case of an accident it will(might) be enough to turn it off
 
 ### Code health
 - [ ] document your code
@@ -148,8 +150,6 @@ What I would like to see in a company of my dream.
   - it'll be easier to find someone else or postpone the question
 - [ ] FAQ for newcomers
   - 30-day plan with all stuff that they should accomplish
-- [ ] all features must be protected by feature flag
-  - in case of an accident it will(might) be enough to turn it off
 - [ ] document solved and unresolved problems
   - teammembers will be aware of some problems and it will be resolved much faster
 
