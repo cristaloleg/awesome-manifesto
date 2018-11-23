@@ -61,6 +61,7 @@ What I would like to see in a company of my dream.
   - in case of an accident it will(might) be enough to turn it off
 
 ### Code health
+- [ ] leave your code better than you found it
 - [ ] document your code
   - giving a small context for API will save a lot of time
 - [ ] use linters and code analysis all the time
