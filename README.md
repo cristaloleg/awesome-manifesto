@@ -1,7 +1,5 @@
 # Manifesto
 
-What I would like to see in a company of my dream.
-
 ### Git
 - [ ] 1 commit per change, do squash
   - you can easily work with changes
