@@ -27,6 +27,8 @@
   - clear, well explanatory, structured
 - [ ] no big binary files inside a repo
   - slowdowns without a reason
+- [ ] have a meaningful README
+  - so everyone can quickly get overview of the repo
 
 ### CI
 - [ ] auto-revert on failure
