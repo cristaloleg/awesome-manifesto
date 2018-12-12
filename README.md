@@ -86,6 +86,8 @@
   - similar environment everywhere is a good idea
 - [ ] if you can’t show a bottleneck, don’t start to optimise it
   - it might be interesting and challenging, but useless
+- [ ] check back compatibility before the new releases
+  - make it explicit and obvious (+doc how to port)
 
 ### Database
 - [ ] think about your data
