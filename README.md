@@ -57,6 +57,8 @@
 ### Deploy
 - [ ] configuration files must be validated before a start
   - unless difficult debug is your goal
+- [ ] store a config in the same repo as a code
+  - this prevents 'the chick or the egg' problem
 - [ ] all features must be protected by feature flag
   - in case of an accident it will(might) be enough to turn it off
 - [ ] deployment of a new config must be isolated
