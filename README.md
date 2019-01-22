@@ -28,7 +28,7 @@
 - [ ] no big binary files inside a repo
   - slowdowns without a reason
 - [ ] have a meaningful README
-  - so everyone can quickly get overview of the repo
+  - so everyone can quickly get an overview of the repo
 
 ### CI
 - [ ] auto-revert on failure
@@ -57,14 +57,14 @@
 ### Deploy
 - [ ] configuration files must be validated before a start
   - unless difficult debug is your goal
-- [ ] store a config in the same repo as a code
+- [ ] store config in the same repo as a code
   - this prevents 'the chick or the egg' problem
 - [ ] all features must be protected by feature flag
-  - in case of an accident it will(might) be enough to turn it off
+  - in case of an accident, it will(might) be enough to turn it off
 - [ ] deployment of a new config must be isolated
   - to separate different machines/containters/storages from each other
 - [ ] deploy must go from a (git-)tag or release, not from the master
-  - this restricts a change set which will be deployed
+  - this restricts a changeset which will be deployed
 
 ### Code health
 - [ ] leave your code better than you found it
@@ -77,12 +77,12 @@
 - [ ] remove deprecated stuff
   - having a bloated dead code is a mistake
 - [ ] also remove old code
-  - it adds even less reasons to the new code
+  - it adds even fewer reasons to the new code
 - [ ] use TODO, BUG, XXX in code
   - jumping to the issue tracker can be minimised
 - [ ] no experiments in the master
   - use your 20% time as a playground, please
-- [ ] allow to change log-level on the fly
+- [ ] allow changing log-level on the fly
   - this will simplify production's debug routine
 - [ ] limit your log file, 'cause it might grow unlimited
   - this might cause troubles to your app, be careful
@@ -106,22 +106,22 @@
   - this will save you from formatting hell
 - [ ] log slow queries
   - see what is happening in a database and who is too greedy
-- [ ] don't put business logic into db or at least make it loosely coupled
-  - this will give you an easy migration to another db
+- [ ] don't put business logic into DB or at least make it loosely coupled
+  - this will give you an easy migration to another DB
 
 ### Dependencies
 - [ ] wrap any dependency with an interface(or analogue)
   - this will prevent a vendor lock on it
 - [ ] bump libs on a permanent basis
   - the new version is expected to be better
-- [ ] have a local cache-server with deps
+- [ ] have a local cache-server with dependencies
   - adds stability to the infrastructure
 - [ ] pin your dependencies to a specific version
   - accidental commit to dependency's master will break nothing
 - [ ] prefer mature technology, rather than a hyped one
   - mature will die slower, then hyped
 - [ ] fork instead of hack
-  - it might be better to fix a lib instead of wrapping for desired behaviour
+  - it might be better to fix a lib instead of wrapping for the desired behaviour
 
 ### Tests
 - [ ] use one test framework
@@ -133,7 +133,7 @@
 - [ ] TDD
   - it really works
 - [ ] measure a code coverage
-  - quick and easy way to eliminate bugs  
+  - a quick and easy way to eliminate bugs  
 - [ ] test your backups
   - they might be broken
 - [ ] do not hard code ports in tests
@@ -155,12 +155,12 @@
   - no insulting environment, respectful trolling
 - [ ] 'coding rockstar'
   - it is a demotivation, not an inspiration
-- [ ] if you're on the vacations - specify date range
+- [ ] if you're on the vacations - specify a date range
   - it'll be easier to find someone else or postpone the question
 - [ ] FAQ for newcomers
   - 30-day plan with all stuff that they should accomplish
 - [ ] document solved and unresolved problems
-  - teammembers will be aware of some problems and it will be resolved much faster
+  - team members will be aware of some problems and it will be resolved much faster
 
 ### Meetings
 - [ ] I can skip if I'm out of scope
@@ -184,7 +184,7 @@
 - [ ] do not delete personal chats with inactive users
   - some chats contain interesting ideas
 - [ ] closed ticket must contain a link to the changes
-  - every change must be easy accessible and visible for others
+  - every change must be easily accessible and visible for others
 
 ### Permissions
 - [ ] Git, CI, SSH read-access to everything
@@ -200,7 +200,7 @@
 - [ ] engineers apart from non-engineers
   - fire & ice
 - [ ] quiet open-space
-  - someone might be sensitive to a noise...
+  - someone might be sensitive to noise...
 - [ ] quiet zones
   - ...really sensitive
 - [ ] the kitchen isn't for chill-out
