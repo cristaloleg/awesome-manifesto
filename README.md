@@ -63,6 +63,8 @@
   - in case of an accident it will(might) be enough to turn it off
 - [ ] deployment of a new config must be isolated
   - to separate different machines/containters/storages from each other
+- [ ] deploy must go from a (git-)tag or release, not from the master
+  - this restricts a change set which will be deployed
 
 ### Code health
 - [ ] leave your code better than you found it
