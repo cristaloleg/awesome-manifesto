@@ -53,6 +53,8 @@
   - re-run part of a job on my local machine
 - [ ] use Makefile, Bash
   - simple, easy, well known
+- [ ] ability to start/stop a job on CI
+  - waiting for an approval to make this action is a horrible bottleneck
   
 ### Deploy
 - [ ] configuration files must be validated before a start
@@ -195,8 +197,6 @@
   - better organisation of credentials
 - [ ] each office should have global admin
   - different time zones are a bottleneck
-- [ ] ability to start/stop a job on CI
-  - waiting for an approval to make this action is a horrible bottleneck
 
 ### Space
 - [ ] engineers apart from non-engineers
