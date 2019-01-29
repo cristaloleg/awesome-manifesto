@@ -161,6 +161,8 @@
   - 30-day plan with all stuff that they should accomplish
 - [ ] document solved and unresolved problems
   - team members will be aware of some problems and it will be resolved much faster
+- [ ] every ticket in progress must have an assignee
+  - this prevents doing same work on one task 
 
 ### Meetings
 - [ ] I can skip if I'm out of scope
