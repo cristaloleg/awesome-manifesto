@@ -165,6 +165,8 @@
   - team members will be aware of some problems and it will be resolved much faster
 - [ ] every ticket in progress must have an assignee
   - this prevents doing same work on one task 
+- [ ] there must be a run book or guide for every responsibility
+  - 30/60/90 days plan for newcomers, guide for on call, support
 
 ### Meetings
 - [ ] I can skip if I'm out of scope
