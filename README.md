@@ -1,7 +1,7 @@
 # Manifesto
 
 ### Git
-- [ ] 1 commit per change, do squash
+- [ ] 1 commit per change, do squash on merge
   - you can easily work with changes
 - [ ] there might be few (already squashed) commits in a pull request
   - don't make huge changes they will bury the truth
