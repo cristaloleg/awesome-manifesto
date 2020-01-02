@@ -55,6 +55,8 @@
   - simple, easy, well known
 - [ ] ability to start/stop a job on CI
   - waiting for an approval to make this action is a horrible bottleneck
+- [ ] CI jobs should be runned periodically
+  - to reduce possible errors due to hidden dependecies
   
 ### Deploy
 - [ ] configuration files must be validated before a start
